@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Boot</key>
+	<dict>
+		<key>Arguments</key>
+		<string>nv_disable=1</string>
+	</dict>
+	<key>Devices</key>
+	<dict>
+		<key>Audio</key>
+		<dict>
+			<key>Inject</key>
+			<integer>11</integer>
+		</dict>
+	</dict>
+	<key>Graphics</key>
+	<dict>
+		<key>Inject</key>
+		<dict>
+			<key>Intel</key>
+			<true/>
+		</dict>
+		<key>LoadVBios</key>
+		<true/>
+	</dict>
+	<key>SystemParameters</key>
+	<dict>
+		<key>InjectSystemID</key>
+		<true/>
+		<key>NvidiaWeb</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
