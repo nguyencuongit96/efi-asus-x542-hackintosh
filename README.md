@@ -1,5 +1,7 @@
 # efi-asus-x542-hackintosh
 
+video kết quả: https://www.youtube.com/watch?v=fWMK2QL_LKE
+
 Hackintosh laptop asus x542uq
 
 LAPTOP ASUS X542u
@@ -17,7 +19,5 @@ Mình cài sử dụng clover, cài bản High sierra mục đích cài bản n�
 Wifi ok : sử dụng wifi confact 811AC
 
 Audio ok : layout ID: 11
-
-video : https://www.youtube.com/watch?v=fWMK2QL_LKE
 
 Link efi: https://drive.google.com/file/d/10LdltRvqIqYs1CR84F01RIWckE08irKu/view?usp=sharing
